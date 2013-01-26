@@ -1,0 +1,4 @@
+AmigoSeguro
+===========
+
+Proyecto AmigoSeguro
